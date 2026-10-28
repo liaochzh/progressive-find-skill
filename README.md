@@ -62,4 +62,4 @@ references/search-recipes.md # 按需读：本地 rg 变体、GitHub raw/API、�
 
 ## License
 
-未附许可证；如需复用请先开 issue 说明用途。
+[MIT](LICENSE) © 2026 liaochzh
