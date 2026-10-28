@@ -1,0 +1,3 @@
+# 仓库只放 skill 本体；本地 plan/test/baton 文档不发布（含本地路径与门禁内部细节）
+docs/
+.DS_Store
